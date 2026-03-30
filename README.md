@@ -1,4 +1,4 @@
-# Manifesto Gender Analysis (MGA) Annotation App
+# Manifesto Gender Analysis (MGA) Annotation Tool
 
 ## Table of Contents
 
